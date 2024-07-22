@@ -11,3 +11,5 @@ numpy
 transformers
 chromadb
 pypdf
+torch
+open_clip_torch
