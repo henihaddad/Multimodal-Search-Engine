@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langchain-experimental
+pillow
+PyMuPDF
+scikit-learn
+numpy
+transformers
+chromadb
+pypdf
